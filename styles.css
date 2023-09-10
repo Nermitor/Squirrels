@@ -1,0 +1,16 @@
+img{
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.class{
+    text-align: right;
+}
+
+.family{
+    text-align: center;
+}
+
+.gender{
+    text-align: left;
+}
